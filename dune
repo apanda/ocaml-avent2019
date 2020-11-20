@@ -1,0 +1,3 @@
+(executable
+ (name adv1901)
+ (libraries core))
