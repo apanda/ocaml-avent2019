@@ -1,3 +1,9 @@
 (executable
  (name adv1901)
- (libraries core))
+ (libraries core)
+ (modules adv1901))
+
+(executable
+ (name adv1902)
+ (libraries core)
+ (modules adv1902))
